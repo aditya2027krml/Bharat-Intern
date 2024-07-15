@@ -3,3 +3,5 @@
 
 
 2. Movie Recommendations : Build a movie recommendation system using colaborative filtering and machine learning techniques in Python.
+
+3. Iris Classification : Develop a ML Model for classifying iris flowers based on their features using Python, scikit-learn, and TensorFlow
